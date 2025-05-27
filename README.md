@@ -1,4 +1,4 @@
-# Purpose of account:
+# Purpose of Account
 A storage of old projects from college
 
 ## Github Information
